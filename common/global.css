@@ -17,3 +17,12 @@ main {
 strong {
   font-weight: 700;
 }
+
+main.escbook ul {
+    list-style-type: initial;
+    padding-left: revert;
+}
+main.escbook li {
+    list-style-type: initial;
+    padding-left: revert;
+}
